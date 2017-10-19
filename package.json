@@ -1,0 +1,19 @@
+{
+  "name": "telegram-group-forward",
+  "version": "1.0.0",
+  "description": "Telegram Group Forward",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catrielmuller/telegram-group-forward.git"
+  },
+  "author": "Catriel Müller <catrielmuller@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/catrielmuller/telegram-group-forward/issues"
+  },
+  "homepage": "https://github.com/catrielmuller/telegram-group-forward#readme"
+}
